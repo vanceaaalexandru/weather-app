@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # weather-app
-A modern weather application built with vanilla JavaScript
+A modern weather application built with JavaScript
 =======
 O aplicație web simplă pentru afișarea vremii curente, construită cu HTML, CSS și JavaScript.
 
