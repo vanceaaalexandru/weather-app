@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # weather-app
 A modern weather application built with JavaScript
 =======
@@ -29,4 +28,4 @@ weather-app/
 │   ├── weather-service.js
 │   └── ui-controller.js
 └── README.md
->>>>>>> c2285e3 (Initial project setup with modular structure)
+
